@@ -10,5 +10,5 @@ Other functionality is if the user do two taps in the bulb,the bulb brokes.To fi
 - CSS
 - JAVASCRIPT(Handle DOM)
 
- 
+## GIF 
 ![Bulb - Brave 2022-11-29 11-17-42](https://user-images.githubusercontent.com/88905492/204556548-25548e38-4946-471b-b901-6c5f16c9ebb0.gif)
